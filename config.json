@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingferify",
+        "uuid": 15482067,
+        "checksum": "ppbzm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
